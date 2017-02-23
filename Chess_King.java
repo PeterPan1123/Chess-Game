@@ -7,5 +7,7 @@
  */
 public class Chess_King extends Chess
 {
+    public boolean KingMove(int x,int y)    {
     
+    }
 }
